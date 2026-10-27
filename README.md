@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=ASTHA%20Shrivastava&fontSize=55&fontColor=ffffff&color=0:090979,50:6A00F4,100:00D4FF&animation=fadeIn&desc=CODE.%20CREATE.%20REPEAT.&descAlignY=65" width="100%" alt="Astha Shrivastava banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=ASTHA%20SHRIVASTAVA&fontSize=55&fontColor=ffffff&color=0:090979,50:6A00F4,100:00D4FF&animation=fadeIn&desc=CODE.%20CREATE.%20REPEAT.&descAlignY=65" width="100%" alt="Astha Shrivastava banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Student+%7C+Developer+in+Progress;Exploring+Web+Development;Learning.+Building.+Growing." alt="Animated introduction" />
 
